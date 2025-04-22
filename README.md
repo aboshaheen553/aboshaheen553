@@ -1,140 +1,78 @@
 # <h1 align="center">Hi 👋, I'm Mohamed Shaheen</h1>
+<h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=A+Passionate+Full+Stack+Developer+from+Egypt;Transforming+Ideas+into+Digital+Reality;Building+the+Future+of+Web+Development" alt="Typing SVG" />
-  </a>
 </div>
 
-<div align="center">
-  
-  [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
-  [![Blog](https://img.shields.io/badge/Blog-Tech_Articles-orange?style=for-the-badge&logo=hashnode)](https://your-blog.com)
-  [![YouTube](https://img.shields.io/badge/YouTube-Gaming-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/aboshaheengaming)
-  [![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/UuasbmKqUh)
-  
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aboshaheen553&theme=radical" />
-</div>
-
-### 🚀 Quick Overview
-
-```javascript
-const mohamed = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "PHP"],
-    askMeAbout: ["Web Dev", "Tech", "Gaming", "Coffee"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "FastAPI"],
-            php: ["Laravel"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        devOps: ["AWS", "Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
-        tools: ["Git", "Postman", "Docker", "Nginx", "Linux"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Single Page Applications"],
-    currentFocus: "Building Scalable Full Stack Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-### 🎯 Skills & Expertise
-
-<div align="center">
-
-| Category | Skills |
-|----------|--------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-
-</div>
-
-### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aboshaheen553&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aboshaheen553&repo=project2&theme=radical" />
-  </a>
-</div>
-
-### 📊 This Week's Development Breakdown
-
-<div align="center">
-
-```text
-JavaScript   ███████████░░   75.52%
-TypeScript   ████████░░░░░   65.10%
-Python       ███████░░░░░░   55.23%
-HTML/CSS     ██████░░░░░░░   45.15%
-DevOps       ████░░░░░░░░░   30.00%
-```
-
-</div>
-
-### 📈 GitHub Activity Graph
-[![Mohamed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aboshaheen553&theme=redical)](https://github.com/aboshaheen553)
-
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aboshaheen553&theme=radical&row=1&column=6" alt="trophy" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboshaheen553&show_icons=true&locale=en&layout=compact&theme=radical" alt="languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aboshaheen553&show_icons=true&locale=en&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboshaheen553&theme=radical" alt="streak" />
-</div>
-
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://instagram.com/aboshaheen553">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/aboshaheengaming">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/UuasbmKqUh">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:business@moshaheen.xyz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="left">
+  <a href="https://twitter.com/aboshaheeneg" target="blank">
+    <img src="https://img.shields.io/twitter/follow/aboshaheeneg?logo=twitter&style=for-the-badge" alt="aboshaheeneg" />
   </a>
 </p>
 
-### 💰 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aboshaheen553">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
-  </a>
-  <a href="https://ko-fi.com/aboshaheen553">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/>
-  </a>
+- 🔭 I'm currently working on **Full Stack Web Applications**
+
+- 🌱 I'm currently learning **Cloud Technologies & DevOps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aboshaheen553](https://github.com/aboshaheen553)
+
+- 💬 Ask me about **React, Node.js, Python, and Database Design**
+
+- 📫 How to reach me **business@moshaheen.xyz**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/aboshaheen553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abo.shaheen.official" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/aboshaheengaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aboshaheengaming" height="30" width="40" /></a>
+  <a href="https://discord.gg/UuasbmKqUh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aboshaheen gaming discord" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/aboshaheen553/aboshaheen553/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aboshaheen553&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  
+  <!-- Cloud & DevOps -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  
+  <!-- Tools & Others -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+</p>
 
-</div>
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/aboshaheen553"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/></a>
+  <a href="https://ko-fi.com/aboshaheen553"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
+</p>
+<br><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboshaheen553&show_icons=true&locale=en&layout=compact&theme=dark" alt="aboshaheen553" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboshaheen553&show_icons=true&locale=en&theme=dark" alt="aboshaheen553" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aboshaheen553&theme=dark" alt="aboshaheen553" /></p>
